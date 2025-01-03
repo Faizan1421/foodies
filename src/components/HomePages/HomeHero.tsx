@@ -53,8 +53,8 @@ function HomePage() {
           </h1>
 
           <p className="text-[10px] md:text-[16px] font-normal">
-            <br /><b>1.</b> Welcome to[FOODIES], where passion meets flavor!
-            <br /><b>2.</b> We specialize in crafting the **best foody products** to satisfy every taste.
+            <br /><b>1.</b> Welcome to FOODIES, where passion meets flavor!
+            <br /><b>2.</b> We specialize in crafting the best foody products to satisfy every taste.
             <br /><b>3.</b> With fresh ingredients and innovative recipes, our mission is to bring joy to your plate.
             <br /><b>4.</b> Our team of expert chefs and food enthusiasts ensures quality in every bite.
             <br /><b>5.</b> We prioritize health, flavor, and creativity in everything we create.
@@ -62,7 +62,7 @@ function HomePage() {
             <br /><b>7.</b> Sustainability and freshness are at the heart of our food philosophy.
             <br /><b>8.</b> Each product is a reflection of our commitment to excellence and your satisfaction.
             <br /><b>9.</b> Join us in celebrating the art of delicious, wholesome food.
-            <br /><b>10.</b> At [FOODIES], we don't just make food – we create experiences!
+            <br /><b>10.</b> At FOODIES, we donot just make food we create experiences!
           </p>
 
 
